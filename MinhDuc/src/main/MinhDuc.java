@@ -20,6 +20,7 @@ public class MinhDuc {
     public static void main(String[] args) {
         // TODO code application logic here
         new Main_Fr().setVisible(true);
+        System.out.println("Ok");
        
     }
 
